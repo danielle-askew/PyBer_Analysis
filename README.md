@@ -7,8 +7,8 @@ We have broken the data down by city type into three types of cities:
 * Rural
 * Suburban
 * Urban
-The data is sampled from a 5-month period between January 2019 and May 2019.
 
+The data is sampled from a 5-month period between January 2019 and May 2019.
 We can see right away that there is a bigger demand for ride sharing services in Urban cities compared to the Suburban and Rural ones.
 
 ![% of Total Rides by City Type](Analysis/Fig6.png)
